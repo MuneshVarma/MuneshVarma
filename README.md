@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MuneshVarma
+- 👋 Hi, I’m Munesh Varma.
 - 👀 I am an aspiring Data Scientist who wants to have a growth oriented and challenging career,
       where I can contribute my knowledge and skills to the organization and enhance my experience
       through continuous learning and team work.
