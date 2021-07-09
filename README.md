@@ -8,7 +8,7 @@ through continuous learning and team work.
 ## Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Munesh_Varma-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munesh-varma/)
-[![Mail Badge](https://img.shields.io/badge/-Email-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:varmamunes420@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-Email-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:varmamunesh420@gmail.com)
 
 ## Other Profiles.
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/muneshvarma)
