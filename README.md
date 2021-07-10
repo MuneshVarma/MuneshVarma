@@ -52,4 +52,6 @@ The Projects repository includes my Machine Learning and Deep Learning projects.
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MuneshVarma.MuneshVarma)
 
 ## Github Stats.
-![Munesh Varma's github stats](https://github-readme-stats.vercel.app/api?username=MuneshVarma&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuneshVarma&theme=radical)
+![Munesh Varma's github stats](https://github-readme-stats.vercel.app/api?username=MuneshVarma&show_icons=true&theme=radical)
+
